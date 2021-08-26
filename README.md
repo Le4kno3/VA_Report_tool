@@ -1,4 +1,4 @@
-# Vulnerability_Management_tool
+# VA_Report_tool
 
 - It is a tool written in python 
 - The tool is basically a text extraction tool, to extract KB number from a solution. 
